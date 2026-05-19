@@ -6,6 +6,8 @@ Disease: Brief psychotic disorder
 ICD-11: 6A23
 ---
 
+<img width="1536" height="1024" alt="d903b077-15d5-4840-a572-40575fa662a0" src="https://github.com/user-attachments/assets/7ea2187e-f897-4c1e-9ddf-a783280255bb" />
+
 # Swan Lake (재해석 버전)
 
 The original composer is Pyotr Ilyich Tchaikovsky (1840–1893), with the film score adapted by Clint Mansell (1973– ). The music is instrumental and transforms classical ballet themes into distorted, tension-filled sound. The story follows Nina, a perfectionist ballerina who must portray both the White Swan and Black Swan, and who gradually descends into hallucinations and psychological fragmentation under extreme stress. While retaining motifs from *Swan Lake*, the score adds dissonance and warped rhythms, turning familiar melodies into something unsettling, which reflects her unstable mental state and symbolizes the blurring of reality and hallucination, ultimately expressing her inner collapse driven by obsession and perfectionism. In addition, the use of sharply trembling string instruments and distorted electronic sounds contrasts with the elegant atmosphere of the original Swan Lake, further emphasizing Nina’s gradual psychological collapse caused by anxiety and obsession. In this regard, referring to Jekyll and Hyde, which is related to [dissociative identity and self-division](ham-yeji), may also be helpful.
